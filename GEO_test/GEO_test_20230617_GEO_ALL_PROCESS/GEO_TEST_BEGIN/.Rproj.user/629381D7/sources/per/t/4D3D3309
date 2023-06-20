@@ -1,0 +1,26 @@
+{
+    "id": "4D3D3309",
+    "path": "D:/Study/Shanghaitech1/Rotation4/Bioinfo/GEO_test/GEO_test_20230617_GEO_ALL_PROCESS/GEO_TEST_BEGIN/Step2_probe_annotation_group_list.R",
+    "project_path": "Step2_probe_annotation_group_list.R",
+    "type": "r_source",
+    "hash": "934708202",
+    "contents": "",
+    "dirty": false,
+    "created": 1686972586694.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "48,1",
+        "scrollLine": "0"
+    },
+    "folds": "6|7|7|0|\n9|6|12|0|\n40|6|48|0|\n51|6|53|2|\n",
+    "lastKnownWriteTime": 1686973141,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1686973141795,
+    "read_only": false,
+    "read_only_alternatives": []
+}

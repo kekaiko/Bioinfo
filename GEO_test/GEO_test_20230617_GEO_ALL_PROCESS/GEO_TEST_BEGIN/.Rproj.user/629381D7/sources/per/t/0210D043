@@ -1,0 +1,26 @@
+{
+    "id": "0210D043",
+    "path": "D:/Study/Shanghaitech1/Rotation4/Bioinfo/GEO_test/GEO_test_20230617_GEO_ALL_PROCESS/GEO_TEST_BEGIN/Step5_Visualization-Volcano_Map_Heat_Map.R",
+    "project_path": "Step5_Visualization-Volcano_Map_Heat_Map.R",
+    "type": "r_source",
+    "hash": "217568632",
+    "contents": "",
+    "dirty": false,
+    "created": 1686974312526.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "71,44",
+        "scrollLine": "57"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1686974569,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1686974569051,
+    "read_only": false,
+    "read_only_alternatives": []
+}
